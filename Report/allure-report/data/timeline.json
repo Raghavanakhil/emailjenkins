@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "INHYDLSSRIVATHSAN",
+    "children" : [ {
+      "name" : "21932-MainThread",
+      "children" : [ {
+        "name" : "test_url",
+        "uid" : "2f3cba4c8927ab13",
+        "parentUid" : "83b037ded63c662a6c8554685ea4eea1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1585108348113,
+          "stop" : 1585108371138,
+          "duration" : 23025
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "83b037ded63c662a6c8554685ea4eea1"
+    } ],
+    "uid" : "fe25473a868b550e4377b3ad74c52fe1"
+  } ]
+}
